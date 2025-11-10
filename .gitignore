@@ -71,4 +71,5 @@ key.properties
 *.p12
 secrets.json
 credentials.json
+firebase.json
 
